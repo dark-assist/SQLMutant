@@ -66,6 +66,8 @@ Blackhat is good about pushing commits, so the main branch should be updated soo
 
 `chmod +x SQLMutant.sh`
 
+`bash setup.sh`
+
 `./SQLMutant.sh`
 
 # Screenshot
